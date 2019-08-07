@@ -19,7 +19,7 @@ h1 {
   color: #b3aa92;
   background-color: #c2bdb0;
   font-size: 20px;
-  text-decoration:line-through;
+
 }
 
 .coffee-stain {
@@ -28,4 +28,11 @@ h1 {
 
 .normal {
   text-decoration: underline;
+}
+
+#images img {
+  position: relative;
+  height: 300px;
+  width: 250px;
+
 }
