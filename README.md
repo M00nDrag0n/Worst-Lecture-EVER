@@ -10,9 +10,9 @@ _This is a webpage that uses CSS to make the most horrifically boring lecture in
 
 ## Setup/Installation Requirements
 
-* _Use Github to clone this repository, or use this link [  ] to access the global version of the CSS Buttons project._
-* _Open the repository in your browser_
-* _Click around and experiment!_
+* _Use this link [ https://m00ndrag0n.github.io/Worst-Lecture-EVER/ ] to access the global version of the Boring Lecture Project._
+* _Make sure the "coffee stain" is lined up by messing with the screen size._
+* _If your eyes bleed, take some Aspirin._
 
 _No additional servers needed_
 
