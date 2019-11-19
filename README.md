@@ -10,8 +10,7 @@ _This is a webpage that uses CSS to make the most horrifically boring lecture in
 
 ## Setup/Installation Requirements
 
-* _Use Github to clone this repository, or use this link [ https://m00ndrag0n.github.io/chainReactiveWalrus/index-buttons.html ] to access the global version of the CSS Buttons project._
-* _To access the global version of the Walrus project, use this link [ https://m00ndrag0n.github.io/chainReactiveWalrus/ ]_
+* _Use Github to clone this repository, or use this link [  ] to access the global version of the CSS Buttons project._
 * _Open the repository in your browser_
 * _Click around and experiment!_
 
